@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InfectionClinic.Consol/InfectionClinic.Consol.csproj" />
+  <Project Path="InfectionClinic.Test/InfectionClinic.Test.csproj" />
+</Solution>
