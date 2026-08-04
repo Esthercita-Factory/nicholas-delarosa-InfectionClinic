@@ -9,10 +9,10 @@ string option = Console.ReadLine();
 switch (option)
 {
     case "1":
-        ManagerPatients.CreatePatient();
+        ManagerPets.CreatePet();
         break;
     case "2":
-        ManagerPatients.GetPatients();
+        ManagerPets.GetPets();
         break;
     default:
         Console.WriteLine("Invalid option");
