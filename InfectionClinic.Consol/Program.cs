@@ -1,4 +1,4 @@
-﻿using InfectionClinic.Consol.UI;
+using InfectionClinic.Consol.UI;
 
 Console.WriteLine("Hello, World!");
 
